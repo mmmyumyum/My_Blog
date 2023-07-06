@@ -1,0 +1,42 @@
+.travel.mainDiv
+{
+border: 2px solid azure;
+}
+
+.travel.mainDiv img
+{
+width: 100%;
+}
+
+.travel.mainDiv h5, .travel.main.Div p
+{
+margin: 15px;
+}
+
+.movie_head
+{
+font-size: 25px;
+padding: 10px, 10px;
+border-radius: 12px;
+margin-bottom: 15px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: darkslategray;
+}
+
+.book
+{
+margin-bottom: 20px;
+}
+
+#contact iframe
+{
+width: 100%;
+}
